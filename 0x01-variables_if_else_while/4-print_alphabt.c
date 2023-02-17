@@ -1,5 +1,6 @@
 #include <stdio.h>
-/* main - prints the alphabet except letter q and e
+/**
+* main - prints the alphabet except letter q and e
 *
 * Return: Always 0
 *
