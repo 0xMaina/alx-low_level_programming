@@ -1,1 +1,1 @@
-This directory contains C file created and pushed from terminal
+This directory contains files under c language
